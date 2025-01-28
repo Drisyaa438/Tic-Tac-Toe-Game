@@ -22,6 +22,5 @@
 <h3> ScreenShots </h3> 
 <img width="889" alt="tictactoe-light" src="https://user-images.githubusercontent.com/64218887/124368601-4070f000-dc80-11eb-8d0d-4c7894491af6.png">
 <br>
-<img width="878" alt="tictactoe-dark" src="https://user-images.githubusercontent.com/64218887/124368600-3f3fc300-dc80-11eb-979c-a5e802dc344a.png">
-<br>
+
 
